@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+button.selected{
+  background-color: black;
+  color: aqua;
+}
+
+form{
+  width: 100%;
+  position: fixed;
+}
+
+button{
+  width: 33.33%;
+  padding: 1rem;
+  font-size: 30px;
+}
+html{
+  font-size: 12px;
+}
+
+body{
+  min-height: 100vh;
+}
+
+ul{
+  padding: 3rem 2rem 1rem;
+}
+li{
+  margin-bottom: 2rem;
+}
+table{
+  border: 1px solid red;
+}
+table.td{
+  padding: 10px;
+  border: 1px solid red;
+}
